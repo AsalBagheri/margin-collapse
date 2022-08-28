@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        div {
+            background-color: red;
+            margin:4rem 0;
+        }
+        p {
+            background-color:yellow;
+            margin:100px 0 50px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <div>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sint hic nostrum inventore et accusantium alias magni minus, perspiciatis qui quibusdam aut quos, illo amet nisi. Iure ut incidunt quaerat pariatur.
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Necessitatibus, assumenda. Architecto, dolore cum. Nam quos quaerat, ipsa doloremque voluptatum hic labore voluptates eaque doloribus fugit, nesciunt debitis qui! Nemo, odit?</p>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis sunt veritatis cumque consequatur culpa dolore quis, quos tenetur commodi nulla fuga earum porro accusantium, vero temporibus, molestiae sit in deserunt.</p>
+  </div>
+
+</body>
+</html>
